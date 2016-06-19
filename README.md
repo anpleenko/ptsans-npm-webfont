@@ -1,5 +1,7 @@
 ## PTsans webfont package
 
+[![NPM](https://nodei.co/npm-dl/postcss-focus-hover.png?months=1)](https://nodei.co/npm/ptsans-npm-webfont/)
+
 ### Usage
 
 in module
