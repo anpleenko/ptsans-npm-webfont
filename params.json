@@ -1,0 +1,6 @@
+{
+  "name": "Ptsans-npm-webfont",
+  "tagline": "PTsans webfont package",
+  "body": "## PTsans webfont package\r\n\r\n### Usage\r\n\r\nin module\r\n```\r\nimport 'ptsans-npm-webfont';\r\n```\r\n\r\nin style\r\n\r\n```\r\nbody {\r\n  font-family: 'PT Sans', sans-serif;\r\n}\r\n```\r\n\r\nWebpack dependencies:\r\n- style-loader\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
