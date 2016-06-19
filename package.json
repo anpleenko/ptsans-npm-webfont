@@ -1,6 +1,6 @@
 {
   "name": "ptsans-npm-webfont",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PTsans webfont package",
   "main": "style.css",
   "scripts": {
